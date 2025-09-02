@@ -2,7 +2,7 @@
 
 ## School of Engineering & Technology (SOET)  
 **Session:** 2025-26  
-**Programme:** B.Tech / BCA / BSc  
+**Programme:** BCA  
 **Semester:** 3rd  
 
 **Course Codes:** ENCS201, ENCA203, ENBC205  
