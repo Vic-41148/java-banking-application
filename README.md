@@ -61,8 +61,8 @@ The application demonstrates use of **Java basics, control structures, arrays, s
 ---
 
 ## Author
-Submitted individually by **[Your Name]**  
-Programme: **B.Tech/BCA/BSc (3rd Sem)**  
+Submitted individually by **Aditya Shibu**  
+Programme: **BCA (3rd Sem)**  
 
 ---
 
