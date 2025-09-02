@@ -49,4 +49,22 @@ The application demonstrates use of **Java basics, control structures, arrays, s
 
 ---
 
-## Sample Menu
+## Evaluation Rubric
+- ✅ Correct implementation of Account class  
+- ✅ Functional menu operations  
+- ✅ Use of control structures (loops, if-else, switch)  
+- ✅ Efficient use of arrays  
+- ✅ String handling and validation  
+- ✅ Exception handling & input validation  
+- ✅ Modular, readable, and documented code  
+
+---
+
+## Author
+Submitted individually by **[Your Name]**  
+Programme: **B.Tech/BCA/BSc (3rd Sem)**  
+
+---
+
+## Demo
+![Banking Application Demo](image.png)
